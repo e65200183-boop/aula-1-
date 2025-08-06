@@ -1,4 +1,4 @@
-nome = input("digite seu nome :")
+elynnome = input("digite seu nome :")
 idade = int(input('digite sua idade :'))
 
 frasedoseudia = input("digite uma frase do seu dia :")
