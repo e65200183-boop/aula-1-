@@ -1,0 +1,10 @@
+nome = input("digite seu nome :")
+idade = int(input('digite sua idade :'))
+
+frasedoseudia = input("digite uma frase do seu dia :")
+A = int(input("digite um número :"))
+B = int(input("digite outro número :"))
+soma = A + B 
+
+print( nome ,idade,frasedodia ,)
+print( A,B,soma ) 
